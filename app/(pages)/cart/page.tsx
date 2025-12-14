@@ -809,7 +809,7 @@ function Page() {
                     </div>
 
                     {/* ================ MAIN CONTENT AREA ================ */}
-                    <div className="space-y-[30px] my-10">
+                    <div className="space-y-[30px] mt-10">
 
                         <p className="font-semibold text-xl text-center">Your Cart</p>
 
